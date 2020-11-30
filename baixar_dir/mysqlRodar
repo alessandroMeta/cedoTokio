@@ -1,0 +1,1 @@
+select * from tokioCedo where CIF = '7214329158606530000000023930300920';

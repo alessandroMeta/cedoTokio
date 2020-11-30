@@ -1,0 +1,312 @@
+27/02/2020 00:05:47 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:06:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:07:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:08:21 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:09:13 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:35:49 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:36:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:37:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:38:23 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 00:39:14 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:05:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:06:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:07:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:08:24 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:09:15 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:35:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:36:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:37:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:38:25 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 01:39:16 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:05:52 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:06:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:07:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:08:26 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:09:17 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:35:53 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:36:45 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:37:36 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:38:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 02:39:19 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:05:55 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:06:46 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:07:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:08:28 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:09:20 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:35:56 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:36:47 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:37:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:38:29 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 03:39:21 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:05:57 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:06:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:07:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:08:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:09:22 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:35:58 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:36:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:37:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:38:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 04:39:23 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:05:59 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:06:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:07:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:08:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:09:24 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:36:01 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:36:52 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:37:43 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:38:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 05:39:26 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:06:02 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:06:53 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:07:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:08:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:09:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:36:03 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:36:54 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:37:46 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:38:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 06:39:28 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:06:04 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:06:55 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:07:47 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:08:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:09:29 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:36:05 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:36:57 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:37:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:38:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 07:39:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:06:07 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:06:58 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:07:49 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:08:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:09:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:36:08 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:36:59 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:37:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:38:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 08:39:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:06:09 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:07:00 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:07:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:08:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:09:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+27/02/2020 09:35:49 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63373' - ''
+27/02/2020 09:35:49 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63373 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 09:35:50 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_AUTO_META_27022020_082750.zip'
+27/02/2020 09:35:50 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_AUTO_META_27022020_082750.zip' bytes recebidos '206'
+27/02/2020 09:35:50 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_AUTO_META_27022020_082750.zip' - ''
+27/02/2020 09:35:50 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_COND_META_27022020_081736.zip'
+27/02/2020 09:35:50 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_COND_META_27022020_081736.zip' bytes recebidos '206'
+27/02/2020 09:35:51 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_COND_META_27022020_081736.zip' - ''
+27/02/2020 09:35:51 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_COND_MULTIITEM_META_27022020_082158.zip'
+27/02/2020 09:35:51 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_COND_MULTIITEM_META_27022020_082158.zip' bytes recebidos '226'
+27/02/2020 09:35:51 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_COND_MULTIITEM_META_27022020_082158.zip' - ''
+27/02/2020 09:35:51 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_RESI_META_27022020_080630.zip'
+27/02/2020 09:35:51 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_RESI_META_27022020_080630.zip' bytes recebidos '206'
+27/02/2020 09:35:52 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_RESI_META_27022020_080630.zip' - ''
+27/02/2020 09:35:52 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_RESI_MULTIITEM_META_27022020_082158.zip'
+27/02/2020 09:35:52 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_RESI_MULTIITEM_META_27022020_082158.zip' bytes recebidos '226'
+27/02/2020 09:35:52 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_RESI_MULTIITEM_META_27022020_082158.zip' - ''
+27/02/2020 09:35:52 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_AUTO_META_27022020_082729.zip'
+27/02/2020 09:35:53 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_AUTO_META_27022020_082729.zip' bytes recebidos '22'
+27/02/2020 09:35:53 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_AUTO_META_27022020_082729.zip' - ''
+27/02/2020 09:35:53 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_COND_META_27022020_081716.zip'
+27/02/2020 09:35:53 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_COND_META_27022020_081716.zip' bytes recebidos '206'
+27/02/2020 09:35:53 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_COND_META_27022020_081716.zip' - ''
+27/02/2020 09:35:54 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_COND_MULTIITEM_META_27022020_082138.zip'
+27/02/2020 09:35:54 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_COND_MULTIITEM_META_27022020_082138.zip' bytes recebidos '226'
+27/02/2020 09:35:54 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_COND_MULTIITEM_META_27022020_082138.zip' - ''
+27/02/2020 09:35:54 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_FIANCA_META_27022020_063321.zip'
+27/02/2020 09:35:54 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_FIANCA_META_27022020_063321.zip' bytes recebidos '210'
+27/02/2020 09:35:55 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_FIANCA_META_27022020_063321.zip' - ''
+27/02/2020 09:35:55 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_RESI_META_27022020_080610.zip'
+27/02/2020 09:35:55 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_RESI_META_27022020_080610.zip' bytes recebidos '206'
+27/02/2020 09:35:55 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_RESI_META_27022020_080610.zip' - ''
+27/02/2020 09:35:55 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_RESI_MULTIITEM_META_27022020_082138.zip'
+27/02/2020 09:35:55 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_RESI_MULTIITEM_META_27022020_082138.zip' bytes recebidos '226'
+27/02/2020 09:35:56 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_RESI_MULTIITEM_META_27022020_082138.zip' - ''
+27/02/2020 09:35:56 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_SVE_META_27022020_090630.zip'
+27/02/2020 09:35:56 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_SVE_META_27022020_090630.zip' bytes recebidos '204'
+27/02/2020 09:35:56 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_SVE_META_27022020_090630.zip' - ''
+27/02/2020 09:35:56 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_AUTO_META_27022020_082706.zip'
+27/02/2020 09:40:56 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_AUTO_META_27022020_082706.zip' bytes recebidos '106873986'
+27/02/2020 09:40:57 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_AUTO_META_27022020_082706.zip' - ''
+27/02/2020 09:40:57 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_COND_META_27022020_081701.zip'
+27/02/2020 09:41:20 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_COND_META_27022020_081701.zip' bytes recebidos '6718311'
+27/02/2020 09:41:20 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_COND_META_27022020_081701.zip' - ''
+27/02/2020 09:41:21 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_COND_MULTIITEM_META_27022020_082119.zip'
+27/02/2020 09:41:21 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_COND_MULTIITEM_META_27022020_082119.zip' bytes recebidos '226'
+27/02/2020 09:41:21 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_COND_MULTIITEM_META_27022020_082119.zip' - ''
+27/02/2020 09:41:21 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_FIANCA_META_27022020_063302.zip'
+27/02/2020 09:41:21 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_FIANCA_META_27022020_063302.zip' bytes recebidos '210'
+27/02/2020 09:41:22 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_FIANCA_META_27022020_063302.zip' - ''
+27/02/2020 09:41:22 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_RESI_META_27022020_080600.zip'
+27/02/2020 09:42:00 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_RESI_META_27022020_080600.zip' bytes recebidos '14250660'
+27/02/2020 09:42:01 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_RESI_META_27022020_080600.zip' - ''
+27/02/2020 09:42:01 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_RESI_MULTIITEM_META_27022020_082120.zip'
+27/02/2020 09:42:11 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_RESI_MULTIITEM_META_27022020_082120.zip' bytes recebidos '3079163'
+27/02/2020 09:42:11 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_RESI_MULTIITEM_META_27022020_082120.zip' - ''
+27/02/2020 09:42:11 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_27022020_090613.zip'
+27/02/2020 09:42:31 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_27022020_090613.zip' bytes recebidos '6986047'
+27/02/2020 09:42:31 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_27022020_090613.zip' - ''
+27/02/2020 09:42:31 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_27022020_090711.zip'
+27/02/2020 09:42:31 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_27022020_090711.zip' bytes recebidos '22'
+27/02/2020 09:42:31 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_27022020_090711.zip' - ''
+27/02/2020 09:42:32 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_27022020_090731.zip'
+27/02/2020 09:42:32 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_27022020_090731.zip' bytes recebidos '22'
+27/02/2020 09:42:32 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_27022020_090731.zip' - ''
+27/02/2020 09:42:32 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_A200A_200227015610.TXT'
+27/02/2020 09:42:32 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_A200A_200227015610.TXT' bytes recebidos '1202'
+27/02/2020 09:42:33 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_A200A_200227015610.TXT' - ''
+27/02/2020 09:42:33 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_A200A_UNIF_200227015704.TXT'
+27/02/2020 09:42:33 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_A200A_UNIF_200227015704.TXT' bytes recebidos '1202'
+27/02/2020 09:42:33 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_A200A_UNIF_200227015704.TXT' - ''
+27/02/2020 09:42:33 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_200227015609.TXT'
+27/02/2020 09:42:34 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_200227015609.TXT' bytes recebidos '2185236'
+27/02/2020 09:42:35 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_200227015609.TXT' - ''
+27/02/2020 09:42:35 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_MULTIITEM_200227015704.TXT'
+27/02/2020 09:42:35 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_MULTIITEM_200227015704.TXT' bytes recebidos '1202'
+27/02/2020 09:42:35 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_MULTIITEM_200227015704.TXT' - ''
+27/02/2020 09:42:35 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_UNIF_200227015703.TXT'
+27/02/2020 09:42:36 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_UNIF_200227015703.TXT' bytes recebidos '1202'
+27/02/2020 09:42:36 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_UNIF_200227015703.TXT' - ''
+27/02/2020 09:42:36 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200SV_200227015609.TXT'
+27/02/2020 09:42:37 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200SV_200227015609.TXT' bytes recebidos '2593916'
+27/02/2020 09:42:37 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200SV_200227015609.TXT' - ''
+27/02/2020 09:42:38 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63373 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 09:42:38 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63373 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:05:50 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63409' - ''
+27/02/2020 10:05:50 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63409 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:05:50 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63409 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:05:50 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63409 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:35:51 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63454' - ''
+27/02/2020 10:35:52 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63454 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:35:52 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63454 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 10:35:52 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63454 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:05:53 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63485' - ''
+27/02/2020 11:05:53 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63485 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:05:53 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63485 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:05:53 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63485 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:35:54 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63520' - ''
+27/02/2020 11:35:54 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63520 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:35:54 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63520 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 11:35:54 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63520 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:05:55 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63558' - ''
+27/02/2020 12:05:55 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63558 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:05:55 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63558 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:05:55 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63558 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:35:56 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63596' - ''
+27/02/2020 12:35:56 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63596 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:35:57 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63596 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 12:35:57 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63596 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:05:57 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63624' - ''
+27/02/2020 13:05:58 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63624 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:05:58 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63624 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:05:58 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63624 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:35:59 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63658' - ''
+27/02/2020 13:35:59 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63658 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:35:59 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63658 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 13:35:59 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63658 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:06:00 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63696' - ''
+27/02/2020 14:06:00 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63696 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:06:00 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63696 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:06:00 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63696 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:36:01 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63735' - ''
+27/02/2020 14:36:01 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:36:01 [MSG0019] TCPIP - O0055TOKIOMARINE - Inicio de transmissao '27_02_2020_MTPDF_1_043313.zip'
+27/02/2020 14:36:41 [MSG0031] TCPIP - O0055TOKIOMARINE - Fim de transmissao com sucesso '27_02_2020_MTPDF_1_043313.zip' bytes transmitidos '27940283'
+27/02/2020 14:36:41 [MSG0026] TCPIP - O0055TOKIOMARINE - Transmissao confirmada com sucesso '27_02_2020_MTPDF_1_043313.zip' - ''
+27/02/2020 14:36:42 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 14:36:42 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:06:02 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63768' - ''
+27/02/2020 15:06:02 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63768 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:06:02 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63768 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:06:02 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63768 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:36:03 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63804' - ''
+27/02/2020 15:36:03 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63804 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:36:04 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63804 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 15:36:04 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63804 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:06:04 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63838' - ''
+27/02/2020 16:06:05 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63838 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:06:05 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63838 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:06:05 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63838 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:36:05 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63872' - ''
+27/02/2020 16:36:06 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63872 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:36:06 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63872 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 16:36:06 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63872 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:06:07 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63902' - ''
+27/02/2020 17:06:07 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63902 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:06:07 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63902 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:06:07 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63902 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:36:08 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63940' - ''
+27/02/2020 17:36:08 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63940 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:36:08 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63940 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 17:36:08 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63940 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:06:09 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63980' - ''
+27/02/2020 18:06:09 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63980 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:06:09 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63980 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:06:09 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:63980 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:36:11 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64021' - ''
+27/02/2020 18:36:11 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64021 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:36:11 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64021 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 18:36:11 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64021 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:06:11 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64056' - ''
+27/02/2020 19:06:12 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64056 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:06:12 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64056 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:06:12 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64056 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:36:13 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64090' - ''
+27/02/2020 19:36:13 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64090 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:36:13 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64090 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 19:36:13 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64090 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:06:14 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64124' - ''
+27/02/2020 20:06:14 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64124 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:06:14 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64124 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:06:14 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64124 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:36:15 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64160' - ''
+27/02/2020 20:36:15 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64160 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:36:15 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEMP_27022020_203321.zip'
+27/02/2020 20:36:20 [MSG0036] TCPIP - O0055TOKIOMARINE - Fim de recepcao com erro 'GATEMP_27022020_203321.zip' [codigo:10054]
+27/02/2020 20:36:20 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64160 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 20:36:20 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64160 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:06:16 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64196' - ''
+27/02/2020 21:06:16 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64196 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:06:17 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEMP_27022020_203321.zip'
+27/02/2020 21:06:17 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEMP_27022020_203321.zip' bytes recebidos '2332515'
+27/02/2020 21:06:18 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEMP_27022020_203321.zip' - ''
+27/02/2020 21:06:18 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'gatilho.zip'
+27/02/2020 21:06:27 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'gatilho.zip' bytes recebidos '4227168'
+27/02/2020 21:06:27 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'gatilho.zip' - ''
+27/02/2020 21:06:27 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATILHO_27022020_201748.TXT'
+27/02/2020 21:06:28 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATILHO_27022020_201748.TXT' bytes recebidos '98'
+27/02/2020 21:06:28 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATILHO_27022020_201748.TXT' - ''
+27/02/2020 21:06:28 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_A200CC_200227201713.TXT'
+27/02/2020 21:06:28 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_A200CC_200227201713.TXT' bytes recebidos '58394'
+27/02/2020 21:06:28 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_A200CC_200227201713.TXT' - ''
+27/02/2020 21:06:29 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_AGRO_A200CC.txt'
+27/02/2020 21:06:29 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_AGRO_A200CC.txt' bytes recebidos '2'
+27/02/2020 21:06:29 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_AGRO_A200CC.txt' - ''
+27/02/2020 21:06:29 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64196 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:06:29 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64196 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:36:17 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64228' - ''
+27/02/2020 21:36:18 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64228 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:36:18 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64228 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 21:36:18 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64228 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:06:18 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64262' - ''
+27/02/2020 22:06:19 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64262 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:06:19 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64262 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:06:19 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64262 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:36:20 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64295' - ''
+27/02/2020 22:36:20 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64295 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:36:20 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64295 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 22:36:20 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64295 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:06:21 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64333' - ''
+27/02/2020 23:06:21 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64333 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:06:21 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64333 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:06:21 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64333 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:36:22 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64366' - ''
+27/02/2020 23:36:22 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64366 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:36:23 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64366 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+27/02/2020 23:36:23 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:64366 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'

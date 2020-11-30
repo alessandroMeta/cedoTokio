@@ -1,0 +1,5 @@
+06/11/2019 07:00:04 [MSG0116] LOCAL - <STCPAGENDA> - Erro: transmissao : abrir diretorio 'C:\STCPCLT-TOKIOMARINE\O0055TOKIOMARINE\saida' do usuario 'O0055TOKIOMARINE' [codigo:2]
+06/11/2019 09:00:02 [MSG0116] LOCAL - <STCPAGENDA> - Erro: transmissao : abrir diretorio 'C:\STCPCLT-TOKIOMARINE\O0055TOKIOMARINE\saida' do usuario 'O0055TOKIOMARINE' [codigo:2]
+06/11/2019 11:00:04 [MSG0116] LOCAL - <STCPAGENDA> - Erro: transmissao : abrir diretorio 'C:\STCPCLT-TOKIOMARINE\O0055TOKIOMARINE\saida' do usuario 'O0055TOKIOMARINE' [codigo:2]
+06/11/2019 17:00:04 [MSG0116] LOCAL - <STCPAGENDA> - Erro: transmissao : abrir diretorio 'C:\STCPCLT-TOKIOMARINE\O0055TOKIOMARINE\saida' do usuario 'O0055TOKIOMARINE' [codigo:2]
+06/11/2019 21:15:03 [MSG0116] LOCAL - <STCPAGENDA> - Erro: transmissao : abrir diretorio 'C:\STCPCLT-TOKIOMARINE\O0055TOKIOMARINE\saida' do usuario 'O0055TOKIOMARINE' [codigo:2]

@@ -39,7 +39,7 @@ if [ -f baixar_script ]
                 motivo=` echo $conteudo | cut -c 36-37 `
                 descricaoMotivo=` cat ../motivosCedo | grep $motivo | cut -c4- `
                 echo "select * from tokioCedo where CIF = '$cif';" > mysqlRodar
-                linha=`mysql -uroot -pobscure01 Tokio 2> /dev/null < mysqlRodar | grep -v CIF | sed "s/\t/|/g"`
+                linha=`mysql -h192.168.0.122 -uroot -pgrafica Tokio 2> /dev/null < mysqlRodar | grep -v CIF | sed "s/\t/|/g"`
                 if [ ! -z "$linha" ]
                  then
                     parte1=`echo $linha | cut -d "|" -f 2,3 `
@@ -63,12 +63,32 @@ fi
 
 if [ -f moverProcessados ]
  then
-    mysql -uroot -pobscure01 Tokio 2> /dev/null < tmp_sqlUpdate
+    mysql -h192.168.0.122 -uroot -pgrafica Tokio 2> /dev/null < tmp_sqlUpdate
     sh moverProcessados
 fi
 
 if [ -f tmp_devolucao ]
  then
     dataArquivo=$(date +"%Y%m%d")
-    mv tmp_devolucao Arquivo_devolucao_Meta_$dataArquivo.txt
+
+    #Montando o acessp
+        tentativas=0 
+    	while [ ! -d "./remotoTokio/SAIDA" ] && [ $tentativas -lt 4 ] ;
+    	do
+
+    		mount.cifs //192.168.1.199/O0055TOKIOMARINE ./remotoTokio -o user=publico.meta,domain=metasolutions.local,pass=grafica*2015,uid=root,user,dir_mode=0777,file_mode=0777,rw
+    		((tentativas=$tentativas + 1));
+
+    	done 
+
+
+ 	 if  [ ! -d "./remotoTokio/SAIDA" ] #teste do acesso
+    	  then 
+      		# erro 
+      		echo "falha na montagem" >> log_robo.htm 
+    	 else
+      		 mv tmp_devolucao Arquivo_devolucao_Meta_$dataArquivo.txt
+		 cp Arquivo_devolucao_Meta_$dataArquivo.txt ./Backup/
+		 mv Arquivo_devolucao_Meta_$dataArquivo.txt ./remotoTokio/SAIDA
+	 fi	 
 fi

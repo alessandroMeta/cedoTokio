@@ -1,0 +1,312 @@
+01/09/2020 00:09:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:10:25 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:11:16 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:12:07 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:12:58 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:39:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:40:26 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:41:17 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:42:08 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 00:43:00 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:09:36 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:10:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:11:18 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:12:09 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:13:01 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:39:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:40:28 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:41:19 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:42:11 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 01:43:02 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:09:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:10:29 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:11:21 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:12:12 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:13:03 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:39:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:40:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:41:22 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:42:13 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 02:43:04 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:09:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:10:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:11:23 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:12:14 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:13:05 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:39:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:40:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:41:24 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:42:16 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 03:43:07 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:09:43 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:10:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:11:25 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:12:17 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:13:08 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:39:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:40:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:41:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:42:18 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 04:43:09 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:09:45 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:10:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:11:28 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:12:19 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:13:10 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:39:46 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:40:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:41:29 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:42:20 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 05:43:11 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:09:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:10:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:11:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:12:21 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:13:13 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:39:49 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:40:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:41:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:42:23 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 06:43:14 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:09:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:10:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:11:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:12:24 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:13:15 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:39:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:40:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:41:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:42:25 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 07:43:16 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:09:52 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:10:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:11:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:12:26 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:13:17 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:39:54 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:40:45 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:41:36 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:42:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 08:43:19 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:09:55 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:10:46 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:11:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:12:29 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:13:20 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:39:56 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:40:47 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:41:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:42:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 09:43:21 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:09:57 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:10:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:11:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:12:31 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:13:22 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:39:58 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:40:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:41:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:42:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 10:43:23 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:10:00 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:10:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:11:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:12:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:13:24 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:40:01 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:40:52 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:41:43 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:42:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 11:43:26 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:10:02 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:10:53 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:11:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:12:36 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:13:27 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:40:03 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:40:54 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:41:45 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:42:37 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 12:43:28 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:10:04 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:10:56 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:11:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:12:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:13:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:40:05 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:40:57 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:41:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:42:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 13:43:30 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:10:07 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:10:58 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:11:49 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:12:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:13:32 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:40:08 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:40:59 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:41:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:42:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 14:43:33 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:10:09 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:11:00 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:11:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:12:43 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:13:34 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:40:10 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:41:01 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:41:53 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:42:44 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 15:43:35 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:10:11 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:11:03 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:11:54 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:12:45 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:13:36 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:40:13 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:41:04 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:41:55 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:42:46 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 16:43:38 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:10:14 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:11:05 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:11:56 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:12:47 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:13:39 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:40:15 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:41:06 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:41:57 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:42:48 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 17:43:40 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:10:16 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:11:07 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:11:59 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:12:50 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:13:41 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:40:17 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:41:08 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:42:00 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:42:51 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 18:43:42 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:10:18 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:11:10 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:12:01 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:12:52 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:13:43 [MSG0054] TCPIP - O0055TOKIOMARINE - Erro: conexao : tentar conexao de saida [codigo:10060] 
+01/09/2020 19:39:59 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51032' - ''
+01/09/2020 19:39:59 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51032 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 19:39:59 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_A200A_200901062412.TXT'
+01/09/2020 19:39:59 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_A200A_200901062412.TXT' bytes recebidos '1202'
+01/09/2020 19:40:00 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_A200A_200901062412.TXT' - ''
+01/09/2020 19:40:00 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_A200A_UNIF_200901062602.TXT'
+01/09/2020 19:40:00 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_A200A_UNIF_200901062602.TXT' bytes recebidos '1202'
+01/09/2020 19:40:00 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_A200A_UNIF_200901062602.TXT' - ''
+01/09/2020 19:40:00 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_200901062411.TXT'
+01/09/2020 19:40:00 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_200901062411.TXT' bytes recebidos '1202'
+01/09/2020 19:40:01 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_200901062411.TXT' - ''
+01/09/2020 19:40:01 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_MULTIITEM_200901062602.TXT'
+01/09/2020 19:40:01 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_MULTIITEM_200901062602.TXT' bytes recebidos '1202'
+01/09/2020 19:40:01 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_MULTIITEM_200901062602.TXT' - ''
+01/09/2020 19:40:01 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200A_UNIF_200901062602.TXT'
+01/09/2020 19:40:02 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200A_UNIF_200901062602.TXT' bytes recebidos '1202'
+01/09/2020 19:40:02 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200A_UNIF_200901062602.TXT' - ''
+01/09/2020 19:40:02 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'TOKIO_META_A200SV_200901062412.TXT'
+01/09/2020 19:40:05 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'TOKIO_META_A200SV_200901062412.TXT' bytes recebidos '8601512'
+01/09/2020 19:40:06 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'TOKIO_META_A200SV_200901062412.TXT' - ''
+01/09/2020 19:40:06 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51032 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 19:40:06 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51032 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:10:00 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51127' - ''
+01/09/2020 20:10:00 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51127 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:10:00 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51127 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:10:00 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51127 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:40:01 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51202' - ''
+01/09/2020 20:40:01 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51202 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:40:01 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51202 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 20:40:01 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51202 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:10:02 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51279' - ''
+01/09/2020 21:10:02 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51279 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:10:03 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_COND_META_01092020_205622.zip'
+01/09/2020 21:10:03 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_COND_META_01092020_205622.zip' bytes recebidos '206'
+01/09/2020 21:10:03 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_COND_META_01092020_205622.zip' - ''
+01/09/2020 21:10:03 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_COND_MULTIITEM_META_01092020_210043.zip'
+01/09/2020 21:10:03 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_COND_MULTIITEM_META_01092020_210043.zip' bytes recebidos '226'
+01/09/2020 21:10:04 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_COND_MULTIITEM_META_01092020_210043.zip' - ''
+01/09/2020 21:10:04 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_RESI_META_01092020_205442.zip'
+01/09/2020 21:10:04 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_RESI_META_01092020_205442.zip' bytes recebidos '206'
+01/09/2020 21:10:04 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_RESI_META_01092020_205442.zip' - ''
+01/09/2020 21:10:04 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_RESI_MULTIITEM_META_01092020_210043.zip'
+01/09/2020 21:10:04 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_RESI_MULTIITEM_META_01092020_210043.zip' bytes recebidos '226'
+01/09/2020 21:10:05 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_RESI_MULTIITEM_META_01092020_210043.zip' - ''
+01/09/2020 21:10:05 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_COND_META_01092020_205602.zip'
+01/09/2020 21:10:05 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_COND_META_01092020_205602.zip' bytes recebidos '206'
+01/09/2020 21:10:06 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_COND_META_01092020_205602.zip' - ''
+01/09/2020 21:10:06 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_COND_MULTIITEM_META_01092020_210024.zip'
+01/09/2020 21:10:06 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_COND_MULTIITEM_META_01092020_210024.zip' bytes recebidos '226'
+01/09/2020 21:10:06 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_COND_MULTIITEM_META_01092020_210024.zip' - ''
+01/09/2020 21:10:07 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_FIANCA_META_01092020_205242.zip'
+01/09/2020 21:10:07 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_FIANCA_META_01092020_205242.zip' bytes recebidos '210'
+01/09/2020 21:10:07 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_FIANCA_META_01092020_205242.zip' - ''
+01/09/2020 21:10:07 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_RESI_META_01092020_205422.zip'
+01/09/2020 21:10:07 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_RESI_META_01092020_205422.zip' bytes recebidos '206'
+01/09/2020 21:10:08 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_RESI_META_01092020_205422.zip' - ''
+01/09/2020 21:10:08 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_RESI_MULTIITEM_META_01092020_210024.zip'
+01/09/2020 21:10:08 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_RESI_MULTIITEM_META_01092020_210024.zip' bytes recebidos '226'
+01/09/2020 21:10:08 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_RESI_MULTIITEM_META_01092020_210024.zip' - ''
+01/09/2020 21:10:08 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_SVE_META_01092020_205302.zip'
+01/09/2020 21:10:09 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_SVE_META_01092020_205302.zip' bytes recebidos '204'
+01/09/2020 21:10:09 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_SVE_META_01092020_205302.zip' - ''
+01/09/2020 21:10:09 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_COND_META_01092020_205553.zip'
+01/09/2020 21:11:36 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_COND_META_01092020_205553.zip' bytes recebidos '15860128'
+01/09/2020 21:11:37 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_COND_META_01092020_205553.zip' - ''
+01/09/2020 21:11:37 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_COND_MULTIITEM_META_01092020_210003.zip'
+01/09/2020 21:11:37 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_COND_MULTIITEM_META_01092020_210003.zip' bytes recebidos '226'
+01/09/2020 21:11:37 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_COND_MULTIITEM_META_01092020_210003.zip' - ''
+01/09/2020 21:11:37 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_FIANCA_META_01092020_205222.zip'
+01/09/2020 21:11:38 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_FIANCA_META_01092020_205222.zip' bytes recebidos '210'
+01/09/2020 21:11:38 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_FIANCA_META_01092020_205222.zip' - ''
+01/09/2020 21:11:38 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_RESI_META_01092020_205359.zip'
+01/09/2020 21:14:01 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_RESI_META_01092020_205359.zip' bytes recebidos '24641326'
+01/09/2020 21:14:01 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_RESI_META_01092020_205359.zip' - ''
+01/09/2020 21:14:01 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_RESI_MULTIITEM_META_01092020_210005.zip'
+01/09/2020 21:14:33 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_RESI_MULTIITEM_META_01092020_210005.zip' bytes recebidos '5238182'
+01/09/2020 21:14:34 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_RESI_MULTIITEM_META_01092020_210005.zip' - ''
+01/09/2020 21:14:34 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_01092020_205245.zip'
+01/09/2020 21:15:34 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_01092020_205245.zip' bytes recebidos '7917595'
+01/09/2020 21:15:34 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_01092020_205245.zip' - ''
+01/09/2020 21:15:34 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_01092020_205345.zip'
+01/09/2020 21:15:34 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_01092020_205345.zip' bytes recebidos '22'
+01/09/2020 21:15:34 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_01092020_205345.zip' - ''
+01/09/2020 21:15:35 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_SVE_META_01092020_205403.zip'
+01/09/2020 21:15:35 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_SVE_META_01092020_205403.zip' bytes recebidos '22'
+01/09/2020 21:15:35 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_SVE_META_01092020_205403.zip' - ''
+01/09/2020 21:15:35 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51279 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:15:35 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51279 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:40:03 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51387' - ''
+01/09/2020 21:40:04 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51387 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:40:04 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATCRT_AUTO_META_01092020_212011.zip'
+01/09/2020 21:40:04 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATCRT_AUTO_META_01092020_212011.zip' bytes recebidos '206'
+01/09/2020 21:40:04 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATCRT_AUTO_META_01092020_212011.zip' - ''
+01/09/2020 21:40:05 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATEND_AUTO_META_01092020_211951.zip'
+01/09/2020 21:40:05 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATEND_AUTO_META_01092020_211951.zip' bytes recebidos '22'
+01/09/2020 21:40:05 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATEND_AUTO_META_01092020_211951.zip' - ''
+01/09/2020 21:40:05 [MSG0035] TCPIP - O0055TOKIOMARINE - Inicio de recepcao 'GATRES_AUTO_META_01092020_211919.zip'
+01/09/2020 21:48:08 [MSG0039] TCPIP - O0055TOKIOMARINE - Fim de recepcao com sucesso 'GATRES_AUTO_META_01092020_211919.zip' bytes recebidos '119522344'
+01/09/2020 21:48:08 [MSG0159] TCPIP - O0055TOKIOMARINE - Recepcao confirmada com sucesso 'GATRES_AUTO_META_01092020_211919.zip' - ''
+01/09/2020 21:48:08 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51387 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 21:48:08 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51387 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:10:04 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51476' - ''
+01/09/2020 22:10:05 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51476 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:10:05 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51476 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:10:05 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51476 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:40:06 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51553' - ''
+01/09/2020 22:40:06 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51553 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:40:06 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51553 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 22:40:06 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51553 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:10:07 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51639' - ''
+01/09/2020 23:10:07 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51639 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:10:07 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51639 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:10:07 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51639 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:40:08 [MSG0055] TCPIP - O0055TOKIOMARINE - Inicio de conexao de saida - '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51735' - ''
+01/09/2020 23:40:08 [MSG0063] TCPIP - O0055TOKIOMARINE - Inicio de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:40:08 [MSG0064] TCPIP - O0055TOKIOMARINE - Fim de sessao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
+01/09/2020 23:40:08 [MSG0065] TCPIP - O0055TOKIOMARINE - Fim de conexao de saida '[TCP-oSSL] R:201.44.30.170:443 L:192.168.1.199:51735 Subject:/C=BR/ST=SAO PAULO/L=SAO PAULO/O=Tokio Marine Seguradora/CN=stcpweb.tokiomarine.com.br'
